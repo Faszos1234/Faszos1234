@@ -1,4 +1,4 @@
-#👋 Szasz!
+# 👋 Szasz!
 Az én nevem **@Faszos1234**.
 
 - 👀 Érdekel a cp journey, a májn kraft és a gufi dolgok
